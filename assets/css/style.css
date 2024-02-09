@@ -112,6 +112,7 @@ section {
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .img-box {
@@ -119,21 +120,21 @@ section {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .img-1 {
-    width: 361px;
-    height: 361px;
+    width: 301px;
+    height: 301px;
 }
 
 .img-2 {
-    height: 375px;
+    height: 305px;
 }
 
 .img-3 {
-    width: 315px;
-    height: 437px;
+    width: 285px;
+    height: 350px;
 }
 
 .table-1 {
